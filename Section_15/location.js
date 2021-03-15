@@ -1,0 +1,2 @@
+location .reload();
+location.href();
