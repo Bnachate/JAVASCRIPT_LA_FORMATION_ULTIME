@@ -25,25 +25,19 @@ Valider mes acquis durant ma formation Epitech.
     Section_15 : Parlons du BOM (Browser Object Model)
     Section_16 : Communiquons avec un site internet
     Section_17 : Modifions le style de nos éléments
-    Section_18 : Projet #2 - Pratiquons tout ce que nous
-venons de voir !
+    Section_18 : Projet #2 - Pratiquons tout ce que nous venons de voir !
     Section_19 : Les évènements (le clic, le double-clic, etc)
     Section_20 : Exercices sur les évènements
     Section_21 : Projet #3 - Générateur de citations
-    Section_22 : Section 22 : Projet #4 guidé : Les formulaires et
-JavaScript 
+    Section_22 : Section 22 : Projet #4 guidé : Les formulaires et JavaScript 
     Section_23 : La programmation orientée objet
     Section_24 : Projet #5 - Fight Simulator
     Section_25 : Devenez maître du temps
     Section_26 : Utiliser les API
     Section_27 : Projet #6 - Une application météo
-    Section_28 : Utilisons les requêtes asynchrones, Callbacks
-& Promises
-    Section_29 : Stocker des données dans le navigateur avec
-JavaScript
-    Section_30 : Projet #7 : Créer un thème qui se souvient
-de nous
+    Section_28 : Utilisons les requêtes asynchrones, Callbacks & Promises
+    Section_29 : Stocker des données dans le navigateur avec JavaScript
+    Section_30 : Projet #7 : Créer un thème qui se souvient de nous
     Section_31 : Et si on écrivait plus vite avec jQuery ?
     Section_32 : Les inclassables
-    Section_33 : Projet #8 guidé - Application de météo
-géolocalisée
+    Section_33 : Projet #8 guidé - Application de météo géolocalisée
